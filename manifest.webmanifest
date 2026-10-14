@@ -1,0 +1,12 @@
+{
+  "name": "Photobooth Bimtek",
+  "short_name": "Bimtek Foto",
+  "description": "Photobooth Bimtek dengan bingkai otomatis dan simpan JPEG",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fa",
+  "theme_color": "#173b63",
+  "icons": []
+}
